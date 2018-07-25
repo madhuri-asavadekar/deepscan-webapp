@@ -25,7 +25,7 @@ const fetchHostsTable = () => {
             dispatch(loadHostsTable(response));
         } catch (error) {
             dispatch(hasError(error));
-        
+        }
     };
 };
 
