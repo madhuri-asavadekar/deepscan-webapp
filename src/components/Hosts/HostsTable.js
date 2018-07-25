@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import ScrollContainer from 'elmer/dist/components/ScrollContainer';
 import {
     FieldSetBuilder,
-    CollectionConfigBuilder,
+    CollectionConfigBuilder
     FieldBuilder
 } from 'elmer/dist/lib/CollectionConfig';
 import Button from 'elmer/dist/components/Button';
